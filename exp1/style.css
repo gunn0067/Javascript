@@ -1,0 +1,15 @@
+/* EXTERNAL CSS FILE */
+
+/* Targetting the external card specifically to show external control */
+.external-card-style {
+    background-color: #ffffff !important;
+    border-left: 5px solid #8c7a6b !important;
+    position: relative;
+}
+
+/* Custom styling for text inside external box when revealed */
+#welcomeBox {
+    color: #555555;
+    font-weight: 500;
+    border-left: 3px solid #8c7a6b;
+}
